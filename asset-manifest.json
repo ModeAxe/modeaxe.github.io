@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.611221e5.css",
-    "main.js": "/static/js/main.c0e39532.js",
+    "main.css": "/static/css/main.ef825e5f.css",
+    "main.js": "/static/js/main.e1aa1204.js",
     "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
     "static/media/PLANTS v1-Test.pdf": "/static/media/PLANTS v1-Test.56b3d00d48f9086b699f.pdf",
     "static/media/birds.png": "/static/media/birds.f14caea5b8e81941e827.png",
@@ -10,12 +10,12 @@
     "static/media/lusakamuseum.png": "/static/media/lusakamuseum.2217150fcf2083af3596.png",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
-    "main.611221e5.css.map": "/static/css/main.611221e5.css.map",
-    "main.c0e39532.js.map": "/static/js/main.c0e39532.js.map",
+    "main.ef825e5f.css.map": "/static/css/main.ef825e5f.css.map",
+    "main.e1aa1204.js.map": "/static/js/main.e1aa1204.js.map",
     "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.611221e5.css",
-    "static/js/main.c0e39532.js"
+    "static/css/main.ef825e5f.css",
+    "static/js/main.e1aa1204.js"
   ]
 }
