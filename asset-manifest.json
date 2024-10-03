@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.ef825e5f.css",
-    "main.js": "/static/js/main.047f135f.js",
+    "main.js": "/static/js/main.2473d82f.js",
     "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
     "static/media/PLANTS v1-Test.pdf": "/static/media/PLANTS v1-Test.56b3d00d48f9086b699f.pdf",
+    "static/media/LivingstatuesWebsite.gif": "/static/media/LivingstatuesWebsite.1f01ab6726b1acbe597f.gif",
     "static/media/birds.png": "/static/media/birds.f14caea5b8e81941e827.png",
     "static/media/me-website-2024-final.gif": "/static/media/me-website-2024-final.86ca5c0820cbd925b5d1.gif",
     "static/media/sparkar.png": "/static/media/sparkar.907a8fdbc6aa66a1b425.png",
@@ -11,11 +12,11 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.ef825e5f.css.map": "/static/css/main.ef825e5f.css.map",
-    "main.047f135f.js.map": "/static/js/main.047f135f.js.map",
+    "main.2473d82f.js.map": "/static/js/main.2473d82f.js.map",
     "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ef825e5f.css",
-    "static/js/main.047f135f.js"
+    "static/js/main.2473d82f.js"
   ]
 }
