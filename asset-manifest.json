@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8bbedb6b.css",
-    "main.js": "/static/js/main.4c65677c.js",
+    "main.js": "/static/js/main.a208322a.js",
     "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
     "static/media/PLANTS v1-Test.pdf": "/static/media/PLANTS v1-Test.56b3d00d48f9086b699f.pdf",
     "static/media/LivingstatuesWebsite.gif": "/static/media/LivingstatuesWebsite.1f01ab6726b1acbe597f.gif",
@@ -10,11 +10,11 @@
     "static/media/lusakamuseum.png": "/static/media/lusakamuseum.2217150fcf2083af3596.png",
     "index.html": "/index.html",
     "main.8bbedb6b.css.map": "/static/css/main.8bbedb6b.css.map",
-    "main.4c65677c.js.map": "/static/js/main.4c65677c.js.map",
+    "main.a208322a.js.map": "/static/js/main.a208322a.js.map",
     "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8bbedb6b.css",
-    "static/js/main.4c65677c.js"
+    "static/js/main.a208322a.js"
   ]
 }
